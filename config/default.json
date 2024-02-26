@@ -1,0 +1,9 @@
+
+{
+"Marketplace": {
+    "dev": {
+      "PORT": 8001,
+      "MONGO_URL": "mongodb+srv://stephiedayot:TJhb4Y1JLORC3xwA@cluster0.r8vt2ms.mongodb.net/?retryWrites=true&w=majority"
+    }
+  }
+}
